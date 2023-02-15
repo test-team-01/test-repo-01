@@ -1,1 +1,1 @@
-print("HI~~I"m Jangyani")
+print("HIIIIIIIIIIIII JYJJYJYJYJY")
