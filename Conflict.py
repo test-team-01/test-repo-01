@@ -1,5 +1,1 @@
-print('cat')
-
-
-print('dog')
-
+print("HI~~I"m Jangyani")
